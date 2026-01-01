@@ -1,6 +1,6 @@
 package gosayhello
 
 func SayHello(name string) string {
-	return "hello"
+	return "hello World"
 
 }
